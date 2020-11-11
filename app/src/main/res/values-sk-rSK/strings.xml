@@ -193,6 +193,25 @@
         <item quantity="many">%d vybraný</item>
         <item quantity="other">%d vybraný</item>
     </plurals>
+    <plurals name="bulk_notes_deleted">
+        <item quantity="one">Odstránená jedna poznámka</item>
+        <item quantity="few">Odstránené %1$d poznámky</item>
+        <item quantity="many">Odstránené %1$d poznámky</item>
+        <item quantity="other">Odstránených %1$d poznámok</item>
+    </plurals>
+    <plurals name="bulk_notes_restored">
+        <item quantity="one">Obnovená jedna poznámka</item>
+        <item quantity="few">Obnovené %1$d poznámky</item>
+        <item quantity="many">Obnovené %1$d poznámky</item>
+        <item quantity="other">Obnovených %1$d poznámok</item>
+    </plurals>
+    <plurals name="share_multiple">
+        <item quantity="one">Zdieľať obsah %1$d poznámky</item>
+        <item quantity="few">Zdieľať obsah %1$d poznámok</item>
+        <item quantity="many">Zdieľať obsah %1$d poznámok</item>
+        <item quantity="other">Zdieľať obsah %1$d poznámok</item>
+    </plurals>
+
     <string name="formatting_help_divider" translateable="false">---</string>
     <string name="formatting_help_codefence_inline" translateable="false">`%1$s`</string>
     <string name="formatting_help_codefence_inline_escaped" translateable="false">\\`%1$s\\`</string>
